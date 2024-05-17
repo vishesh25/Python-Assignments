@@ -3,5 +3,5 @@ def count_lines(filename):
         lines = file.readlines()
     return len(lines)
 
-line_count = count_lines('C:/Workspace/Python Assignments/Level 3/demo.txt')
+line_count = count_lines('/demo.txt')
 print("Number of lines:", line_count)

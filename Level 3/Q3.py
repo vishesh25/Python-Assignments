@@ -4,4 +4,4 @@ def JtoI(filename):
     corrected_content = content.replace('J', 'I').lower()
     print(corrected_content)
 
-JtoI('C:/Workspace/Python Assignments/Level 3/words.txt')
+JtoI('/words.txt')

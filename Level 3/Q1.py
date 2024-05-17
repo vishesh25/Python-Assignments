@@ -6,6 +6,6 @@ def read_even_length_strings(filename):
     return even_length_strings
 
 
-even_strings = read_even_length_strings('C:/Workspace/Python Assignments/Level 3/doc.txt')
+even_strings = read_even_length_strings('/doc.txt')
 for string in even_strings:
     print(string)
