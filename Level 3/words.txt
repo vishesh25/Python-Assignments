@@ -1,0 +1,5 @@
+To Start the assJgnments you have to create
+a package named Python AssJgnments and
+make a dJrectory named BegJnner, attempt
+the questJons Jn that dJrectory creatJng
+dJfferent fJles name Q1.py, Q2.py.... and so on.
